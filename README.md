@@ -60,6 +60,12 @@ O objetivo desses desafios é reforçar o aprendizado através da prática, esti
 
 ---
 
+## Avaliações
+
+Na pasta `Avaliações`, há um conjunto de avaliações respondidas de semestres passados. O intuito é testar o que se foi aprendido com desefios de nível acadêmico. Como método para acompanhar minha evolução, haverá duas versões de resoluções: 
+- uma antes de corrigir, com conhecimento cru
+- uma corrigida e revisada com a melhor resolução
+
 ## 🚀 Intenção
 
 Este repositório funciona como:
